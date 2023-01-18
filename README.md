@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MANI1499
-- 👀 I’m interested in laravel, webapi,vue,java spring,asp.net,c#,jquery and new technology
-- 🌱 I’m currently learning vue
-- 💞️ I’m looking to collaborate on laravel, vue and jquey projects
+- 👀 I’m interested in laravel, web api, vue,java spring, asp.net,c#,jquery and new technologies
+- 🌱 I’m currently learning react 
+- 💞️ I’m looking to collaborate on laravel, react, vue and jquey projects
 - 📫 How to reach me nanaacheampong30@gmail.com
 
 <!---
